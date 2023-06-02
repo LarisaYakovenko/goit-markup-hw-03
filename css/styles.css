@@ -65,12 +65,9 @@ img {
   gap: 40px;
 }
 
-.header-menu-item {
-  padding: 24px 0;
-}
-
 .header-navigation {
   display: flex;
+  align-items: center;
 }
 
 .header-logo {
@@ -104,6 +101,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--main-title-color);
   font-style: normal;
+  padding: 24px 0;
 }
 
 .header-address-link {
