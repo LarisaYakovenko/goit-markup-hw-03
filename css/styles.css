@@ -143,6 +143,7 @@ img {
   max-width: 1440px;
   padding: 188px 472px 188px 472px;
 }
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
@@ -200,7 +201,7 @@ img {
 }
 
 .motto-item {
-  width: calc((100% -24px * 3) / 4);
+  width: calc((100% - 24px * 3) / 4);
 }
 
 .motto-item-text {
@@ -233,10 +234,11 @@ img {
 }
 
 .products-item {
-  width: calc((100% -24px * 2) / 3);
+  width: calc((100% - 24px * 2) / 3);
 }
 
 /* Team */
+
 .team {
   background-color: #f4f4fd;
   padding-bottom: 120px;
